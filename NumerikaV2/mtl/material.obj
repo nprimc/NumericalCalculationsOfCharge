@@ -1,0 +1,12 @@
+newmtl Red
+	Ka 1 0.1 0.1
+	illum 0
+
+newmtl Green
+	Ka 0.1 1 0.1
+	illum 0
+	
+newmtl Blue 
+	Ka 0.1 0.1 1
+	Kd 0.1 0.1 1
+	Ks 0.1 0.1 1

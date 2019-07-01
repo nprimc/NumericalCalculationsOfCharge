@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1556457187 source:c:\users\np9659\desktop\fax\2.semester\prog2\numerikav2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1557368716 source:c:\users\np9659\desktop\fax\2.semester\prog2\projektna_naloga\numerikav2\functions.c
+	"header.h"
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
+1561842535 source:c:\users\np9659\desktop\fax\2.semester\prog2\projektna_naloga\numerikav2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<math.h>
+
+1559832063 c:\users\np9659\desktop\fax\2.semester\prog2\projektna_naloga\numerikav2\header.h
+
+1560390277 source:c:\users\np9659\desktop\fax\2.semester\prog2\projektna_naloga\numerikav2\linkedlist.c
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1557674062 c:\users\np9659\desktop\fax\2.semester\prog2\projektna_naloga\numerikav2\linkedlist.c
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1560390277 source:c:\users\np9659\desktop\numerikav2\linkedlist.c
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1560390279 source:c:\users\np9659\desktop\numerikav2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	<math.h>
+
+1559832063 c:\users\np9659\desktop\numerikav2\header.h
+
